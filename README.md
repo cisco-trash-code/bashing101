@@ -1,14 +1,14 @@
 # Bash
 
-1. Hello World
-2. Variables
-3. Math Functions
-4. If Statements
-5. Exit Codes
-6. While Loops
-7. Universal Update Script
-8. Forr Loops
-9. Filesystem Locations for Scripts
+01. Hello World
+02. Variables
+03. Math Functions
+04. If Statements
+05. Exit Codes
+06. While Loops
+07. Universal Update Script
+08. Forr Loops
+09. Filesystem Locations for Scripts
 10. Data Streams
 11. Functions
 12. Case Statements
