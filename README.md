@@ -7,7 +7,7 @@
 05. Exit Codes
 06. While Loops
 07. Universal Update Script
-08. Forr Loops
+08. For Loops
 09. Filesystem Locations for Scripts
 10. Data Streams
 11. Functions
